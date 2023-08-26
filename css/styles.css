@@ -71,7 +71,7 @@ body {
 .introduction::before{
     content: "";
     position: absolute;
-    background: url(udit_about_photo_BG.jpg);
+    background: url(udit_about_photo_BG_big.jpg);
     /* background-color: #4CBB17; */
     background-size: 100%;
     bottom: 0px;
